@@ -1,0 +1,27 @@
+PODS:
+  - Nimble (7.3.4)
+  - PKDocumentViewer (0.1.0)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - Nimble (~> 7.0)
+  - PKDocumentViewer (from `../`)
+  - Quick (~> 1.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  PKDocumentViewer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
+  PKDocumentViewer: 6425a8ea50b8e5092ec04e8fbb75811765e84572
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: 1e22083f62d002d29d68b1d8ff1ba5e135691173
+
+COCOAPODS: 1.8.4
