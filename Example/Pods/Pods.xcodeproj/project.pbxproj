@@ -616,6 +616,14 @@
 			);
 			sourceTree = "<group>";
 		};
+		D3EE0E55239F68FF00630B45 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				D3EE0E4F239F5C1F00630B45 /* PKDocumentViewer.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		DDFDE89C699D030C5910811EA3B43CD8 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -628,7 +636,7 @@
 		FE11E08B29D7F023FE17B72C68FF1B8E /* PKDocumentViewer */ = {
 			isa = PBXGroup;
 			children = (
-				D3EE0E4F239F5C1F00630B45 /* PKDocumentViewer.swift */,
+				D3EE0E55239F68FF00630B45 /* Classes */,
 				13A983EBDC4A0E2B109008BB59803A30 /* Pod */,
 				C4356A0E3E79182E69890206404595E1 /* Support Files */,
 			);
