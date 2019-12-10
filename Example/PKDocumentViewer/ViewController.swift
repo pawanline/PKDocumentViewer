@@ -26,7 +26,7 @@ class ViewController: UIViewController,UIDocumentInteractionControllerDelegate {
     
     @IBAction func viewPDFButtonTapped(_ sender: Any) {
         // Call to view pdf
-               PKDocumentViewer.shared.viewPdf(urlPath: "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf", screenTitle: "Tesing Document")
+               PKDocumentViewer.shared.viewPdf(urlPath: "http://www.pdf995.com/samples/pdf.pdf", screenTitle: "Tesing Document")
     }
     // when a document interaction controller needs a view controller for presenting a document preview.
       

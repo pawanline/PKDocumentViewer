@@ -14,6 +14,7 @@
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
 		A310F482D0CDB07AD48CBBD9 /* Pods_PKDocumentViewer_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50193CDD500D0FBD24563C20 /* Pods_PKDocumentViewer_Example.framework */; };
+		D3AD88C2239F7D3200710D0F /* PKDocumentViewerDemo.gif in Resources */ = {isa = PBXBuildFile; fileRef = D3AD88C1239F7D3100710D0F /* PKDocumentViewerDemo.gif */; };
 		F93C35D67A1E58B3A6784D48 /* Pods_PKDocumentViewer_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8789354B7374E16634CC214F /* Pods_PKDocumentViewer_Tests.framework */; };
 /* End PBXBuildFile section */
 
@@ -45,6 +46,7 @@
 		95DE8CA1E4ED6F1CDFD39BF8 /* Pods-PKDocumentViewer_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PKDocumentViewer_Tests.release.xcconfig"; path = "Target Support Files/Pods-PKDocumentViewer_Tests/Pods-PKDocumentViewer_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		AA1D391B1E9587864AFFD0BB /* Pods-PKDocumentViewer_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PKDocumentViewer_Example.release.xcconfig"; path = "Target Support Files/Pods-PKDocumentViewer_Example/Pods-PKDocumentViewer_Example.release.xcconfig"; sourceTree = "<group>"; };
 		D1DABDA526BAF185A46EC25B /* PKDocumentViewer.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PKDocumentViewer.podspec; path = ../PKDocumentViewer.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		D3AD88C1239F7D3100710D0F /* PKDocumentViewerDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = PKDocumentViewerDemo.gif; sourceTree = "<group>"; };
 		F83BEB954D5F0A23F64E7D97 /* Pods-PKDocumentViewer_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PKDocumentViewer_Example.debug.xcconfig"; path = "Target Support Files/Pods-PKDocumentViewer_Example/Pods-PKDocumentViewer_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		FB8434529E5E2846E9F92BCA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -98,6 +100,7 @@
 				607FACD91AFB9204008FA782 /* Main.storyboard */,
 				607FACDC1AFB9204008FA782 /* Images.xcassets */,
 				607FACDE1AFB9204008FA782 /* LaunchScreen.xib */,
+				D3AD88C1239F7D3100710D0F /* PKDocumentViewerDemo.gif */,
 				607FACD31AFB9204008FA782 /* Supporting Files */,
 			);
 			name = "Example for PKDocumentViewer";
@@ -248,6 +251,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
+				D3AD88C2239F7D3200710D0F /* PKDocumentViewerDemo.gif in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
 			);
