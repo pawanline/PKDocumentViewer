@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'PKDocumentViewer/Classes/**/*'
+  s.source_files = 'Classes/*.{h,m,swift}'
   s.swift_version = '5.0'
 
   
